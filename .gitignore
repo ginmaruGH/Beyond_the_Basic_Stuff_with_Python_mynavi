@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+bbsp_env/
+support/
+memo.md
+workspace.code-workspace
