@@ -1,3 +1,5 @@
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 # きれいなPythonプログラミング
 
 クリーンなコードを書くための最適な方法
@@ -38,7 +40,7 @@
   - 3.5 妥協しないコードフォーマットツール：Black
   - 3.6 まとめ
 - Ch.04 わかりやすいネーミング
-  - 4.1ケーススタイル
+  - 4.1 ケーススタイル
   - 4.2 PEP 8の命名規則
   - 4.3 適度な名前の長さ
   - 4.4 検索しやすい名前

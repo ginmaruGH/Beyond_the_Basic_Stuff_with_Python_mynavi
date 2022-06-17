@@ -19,7 +19,7 @@ python3 -m venv bbsp_env
 # 仮想環境への切り替え
 source bbsp_env/bin/activate
 ```
-
+source 
 ```bash
 # pipのアップグレード
 pip install --upgrade pip
