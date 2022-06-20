@@ -2,5 +2,6 @@ __pycache__/
 .ipynb_checkpoints/
 bbsp_env/
 support/
+CrackingCodesFiles/
 memo.md
 workspace.code-workspace
